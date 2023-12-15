@@ -1,7 +1,7 @@
 # LumiScene
 
-Example applications: https://www.dailymotion.com/video/k4ixny7Uz3vHYRzHFyR
-Einführung in deutsch: https://www.dailymotion.com/video/k4uhDMnweXOjDxzL1Ib﻿
+Example applications: [https://www.dailymotion.com/video/k4ixny7Uz3vHYRzHFyR](https://www.dailymotion.com/video/k4ixny7Uz3vHYRzHFyR)
+Einführung in deutsch: [https://www.dailymotion.com/video/k4uhDMnweXOjDxzL1Ib﻿](https://www.dailymotion.com/video/k4uhDMnweXOjDxzL1Ib)
 Introduction in english: Follows later.
 _________________________________________________________________________________________________
 
