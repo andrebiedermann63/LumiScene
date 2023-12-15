@@ -8,14 +8,14 @@ Introduction in english: Follows later.
 _________________________________________________________________________________________________
 
 English:
-Light Control and Lighting for Model Houses, Model Trains, Dioramas
+Light Control and Lighting for Model Houses, Model Trains, Dioramas mit Neopixel
 
 This is a versatile parameterizable light control for model houses etc. with Neopixel LEDs.
 The following are possible: - Different colors - Television simulations - Defective fluorescent tube effects - Fire effects - Loose contact effects - Different brightness levels - Sequences with different times and effects.
 _________________________________________________________________________________________________
 
 Deutsch:
-Lichtsteuerung Und Beleuchtung Für Modellhäuser, Modelleisenbahnen, Dioramen
+Lichtsteuerung Und Beleuchtung Für Modellhäuser, Modelleisenbahnen, Dioramen with Neopixel
 
 Dies ist eine vielseitig parametrierbare Lichtsteuerung für Modellhäuser etc. mit Neopixel LEDs.
 
