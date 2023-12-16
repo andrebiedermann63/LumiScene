@@ -6,11 +6,13 @@ Example applications:
 
 [https://www.dailymotion.com/video/k4ixny7Uz3vHYRzHFyR](https://www.dailymotion.com/video/k4ixny7Uz3vHYRzHFyR)
 
-Einführung in deutsch:
-
-Introduction in english: Subtitles are available for that video.
+Einführung in deutsch (contains english subtitles):
 
 [https://www.dailymotion.com/video/k4uhDMnweXOjDxzL1Ib﻿](https://www.dailymotion.com/video/k4uhDMnweXOjDxzL1Ib)
+
+Introduction in english (translation from the german video):
+
+[https://www.dailymotion.com/video/x8qmo9p](https://www.dailymotion.com/video/x8qmo9p)
 
 Instructables:
 
