@@ -27,6 +27,8 @@ This is a versatile parameterizable light control for model houses etc. with Neo
 The following are possible: - Different colors - Television simulations - Defective fluorescent tube effects - Fire effects - Loose contact effects - Different brightness levels - Sequences with different times and effects.
 
 The project was created as an "Arduino-project" in Visual Code Studio and PlatformIO for ESP8266 Controller.
+
+For english use the 139e-files please.
 _________________________________________________________________________________________________
 
 Deutsch:
@@ -36,3 +38,5 @@ Dies ist eine vielseitig parametrierbare Lichtsteuerung für Modellhäuser etc. 
 Möglich sind: - Verschiedene Farben - Fernsehsimulationen - Defekte Leuchtstoffröhren-Effekte - Feuer-Effekte - Wackelkontakt-Effekte - Verschiedene Helligkeiten - Sequenzen mit verschiedenen Zeiten und Effekten.
 
 Das Projekt wurde als "Arduino-Projekt" in Visual Code Studio und PlatformIO erstellt für ESP8266 Controller.
+
+Für deutsch verwenden Sie die 139d-Dateien bitte.
