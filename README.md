@@ -1,14 +1,19 @@
 # LumiScene
 
-Beispiel-Anwendungen: 
+Beispiel-Anwendungen:
+
 Example applications:
+
 [https://www.dailymotion.com/video/k4ixny7Uz3vHYRzHFyR](https://www.dailymotion.com/video/k4ixny7Uz3vHYRzHFyR)
 
 Einführung in deutsch:
+
 Introduction in english: Subtitles are available for that video.
+
 [https://www.dailymotion.com/video/k4uhDMnweXOjDxzL1Ib﻿](https://www.dailymotion.com/video/k4uhDMnweXOjDxzL1Ib)
 
 Instructables:
+
 [https://www.instructables.com/Lichtsteuerung-Und-Beleuchtung-F%C3%BCr-Modellh%C3%A4user/](https://www.instructables.com/Lichtsteuerung-Und-Beleuchtung-F%C3%BCr-Modellh%C3%A4user/)
 
 _________________________________________________________________________________________________
